@@ -35,11 +35,13 @@ I am a software developer with experience in Go, Python, and web technologies. I
 
 
 ## 🔥 Featured Projects
-- 🛒 **E-Commerce Platform** — Full-stack application with clean architecture and modular design  
+- 💬 **1337b04rd (Imageboard)** — Full-stack anonymous imageboard built in Go with clean architecture, modular design, PostgreSQL & MinIO integration, and session-based user avatars.
+- 🛒 Frappuccino — Coffee Shop Management System
+Backend application built in Go with a PostgreSQL database, Dockerized for easy deployment.
+Supports order, menu, and inventory management, provides reporting and analytics, and demonstrates modular architecture, RESTful API design, and scalable backend patterns.
 - 💬 **Real-Time Chat App** — WebSocket-based messaging system with Dockerized environment  
 - 📊 **Data Visualization Dashboard** — REST API + interactive charts for analytics  
 - ⚙️ **Algorithm Visualizer** — Visual demonstrations of core computer science algorithms  
-- 🌍 **Open Source Contributions** — Pull requests, issue discussions, and community collaboration  
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alisherseitkadyr&show_icons=true)
