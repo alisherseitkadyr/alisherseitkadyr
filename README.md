@@ -23,7 +23,7 @@ I am a software developer with experience in Go, Python, and web technologies. I
 - 🌍 **Open Source Contributions** — Pull requests, issue discussions, and community collaboration  
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alisherseitkadyr&show_icons=true)
 
 ## 📫 Contact
 📧 **Email:** alisherseitkadyr@gmail.com  
